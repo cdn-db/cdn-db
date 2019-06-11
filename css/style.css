@@ -6,7 +6,7 @@
 
 body{
 	font-family: 'Helvetica', arial, sans-serif;
-  background: url('img/textures.png');
+  background: url('https://cdn-db.com/img/textures.png');
   background-color: #3D4241;
 	font-size: 15px;
 }
@@ -42,7 +42,7 @@ a:hover{
 	border: 1px solid #008CCA;
 	padding: 10px;
 	margin: 5px;
-	background: url('img/textures.png');
+	background: url('https://cdn-db.com/img/textures.png');
 	background-color:#008CCA;
 }
 
